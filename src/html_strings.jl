@@ -1,8 +1,4 @@
-macro R_str(s)
-    s
-end
-
-const RENTALS_HTML = R"""<div bgcolor=3D"#EDE7D7" text=3D"#333333" link=3D"#3F5374" vlink=3D"#3F5374=
+const RENTALS_HTML = raw"""<div bgcolor=3D"#EDE7D7" text=3D"#333333" link=3D"#3F5374" vlink=3D"#3F5374=
 " alink=3D"#3F5374" style=3D"padding:0;margin:0;font:Arial,Helvetica,sans-s=
 erif;font-family:Arial,Helvetica,sans-serif">
 =09<div style=3D"background-color:#ede7d7;padding:2px 10px 10px 10px">
